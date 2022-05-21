@@ -1,0 +1,13 @@
+:root {
+    --mainTextColor: #6A859C;
+    --mainBg: #fff;
+    --titleColor: #676770;
+    --subtitleColor: #8E8E9C;
+}
+
+.services {
+    --mainTextColor: #fff;
+    --mainBg: #192024;
+    --titleColor: #fff;
+    --subtitleColor: #E8E8E8;
+}
